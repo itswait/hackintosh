@@ -1,7 +1,7 @@
 My Hackintosh
 
-- OS: macOS Big Sur 11.1 (20C69)
-- OpenCore Version: [0.6.5](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.5)
+- OS: macOS Big Sur 11.2 (20D64)
+- OpenCore Version: [0.6.6](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.6)
 - CPU: Intel® Core™ i5-10400 Processor
 - RAM: Kingston HyperX FURY DDR4 2400 16GB
 - iGPU: Intel® UHD Graphics 630
@@ -22,20 +22,13 @@ What's Working
 
 Kexts Used
 
-- Lilu.kext: [1.5.0](https://github.com/acidanthera/Lilu/releases/tag/1.5.0)
-- VirtualSMC.kext: [1.1.9](https://github.com/acidanthera/VirtualSMC/releases/tag/1.1.9)
-- WhateverGreen.kext: [1.4.6](https://github.com/acidanthera/WhateverGreen/releases/tag/1.4.6)
-- AppleALC.kext: [1.5.6](https://github.com/acidanthera/AppleALC/releases/tag/1.5.6)
+- Lilu.kext: [1.5.1](https://github.com/acidanthera/Lilu/releases/tag/1.5.1)
+- VirtualSMC.kext: [1.2.0](https://github.com/acidanthera/VirtualSMC/releases/tag/1.2.0)
+- WhateverGreen.kext: [1.4.7](https://github.com/acidanthera/WhateverGreen/releases/tag/1.4.7)
+- AppleALC.kext: [1.5.7](https://github.com/acidanthera/AppleALC/releases/tag/1.5.7)
 - IntelMausi.kext: [1.0.5](https://github.com/acidanthera/IntelMausi/releases/tag/1.0.5)
 - USBInjectAll.kext: [2018-1108](https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/)
 - XHCI-unsupported.kext: [ad591b3](https://github.com/RehabMan/OS-X-USB-Inject-All/tree/ad591b348fb6f0d407c2de846585b9f92876d6d8/XHCI-unsupported.kext)
-
-Utils Used
-
-- [gibMacOS](https://github.com/corpnewt/gibMacOS)
-- [Hackintool](https://github.com/headkaze/Hackintool)
-- [ProperTree](https://github.com/corpnewt/ProperTree)
-- [OpenCore Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/)
 
 BIOS Settings
 
